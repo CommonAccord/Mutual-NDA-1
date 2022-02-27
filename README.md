@@ -1,3 +1,16 @@
+NOTE - THIS FORK OF BONTERMS NDA:
+
+# Mutual-NDA-1
+ProseObject version of https://bonterms.com/Bonterms-Mutual-NDA-Version-1.pdf?v=1.0
+
+This repo is Unofficial.  See https//bonterms.com for the real thing.
+
+Mount in a CommonAccord app as /G/Bonterms/Mutual-NDA/
+Dependencies include /G/Z/ 
+
+____________________________________________
+ORIGINAL README.md for the Bonterms NDA. 
+
 # Mutual-NDA
 Best-practice, balanced, open source mutual non-disclosure agreement
 
@@ -18,3 +31,5 @@ The Mutual NDA and all other standard Bonterms forms are free to use under [CC B
 
 ## Feedback or questions?
 Reach out to support@bonterms.com.
+
+
